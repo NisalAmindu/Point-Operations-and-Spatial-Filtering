@@ -21,4 +21,4 @@ The tasks involve various image processing techniques including intensity transf
 - Python 3.8+
 - Install dependencies:
 ```bash
-pip install numpy opencv-python matplotlib scikit-image
+pip install numpy opencv-python matplotlib 
